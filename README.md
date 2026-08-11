@@ -1,14 +1,13 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- tu nombre completo -->
+**Nombre:** Isabella Muñoz Osorio
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- @tuusuario -->
+**Usuario de GitHub:** isamuoso
 
 ## Sobre mí
 
-<!-- Dos o tres líneas: qué te interesa de la programación web, qué juego te
-     gustaría construir si pudieras elegir, con qué lenguajes ya trabajaste. -->
+Aunque no sea el area de mi interés, sería interesante aprender bastante sobre la creación de aplicaciones útiles según la necesidad de cada persona, no soy muy experta en muchos lenguajes pero he usado los más básicos.
 
 ## Progreso de la campaña
 
