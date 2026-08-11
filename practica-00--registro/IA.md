@@ -1,0 +1,3 @@
+# Declaración de uso de IA
+
+Usé GitHub Copilot para revisar la estructura mínima que exige la entrega y verificar que la carpeta de práctica estuviera nombrada con el patrón correcto. También pedí una revisión breve del contenido de los archivos obligatorios para asegurar que fueran claros y coherentes con la misión de registro. La redacción final la ajusté manualmente y comprobé cada requisito con los comandos del flujo.
