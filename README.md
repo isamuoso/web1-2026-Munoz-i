@@ -1,19 +1,19 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** Isabella Muñoz Osorio
+**Nombre:** Isabella muñoz osorio
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
 **Usuario de GitHub:** isamuoso
 
 ## Sobre mí
 
-Aunque no sea el area de mi interés, sería interesante aprender bastante sobre la creación de aplicaciones útiles según la necesidad de cada persona, no soy muy experta en muchos lenguajes pero he usado los más básicos.
+No se me da muy bien el ámbito de la progrmación pero estoy dispuesta a aprender abiertaminte.
 
 ## Progreso de la campaña
 
 | # | Misión | Estado | XP | Repositorio | Jugar |
 |---|---|---|---|---|---|
-| 00 | Registro de jugador | ⬜ | /25 | [código](./practica-00-registro) | — |
+| 00 | Registro de jugador | 🔄 | /25 | [código](./practica-00-registro) | — |
 | 01 | Ficha de personaje | ⬜ | /100 | [código](./practica-01-ficha) | — |
 | 02 | Tablero adaptable | ⬜ | /100 | [código](./practica-02-tablero) | — |
 | 03 | Juego de memoria | ⬜ | /100 | [código](./practica-03-memoria) | — |
